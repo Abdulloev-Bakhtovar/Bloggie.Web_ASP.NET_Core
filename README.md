@@ -1,1 +1,1 @@
-# Bloggie2
+My first project with ASP.NET Core
